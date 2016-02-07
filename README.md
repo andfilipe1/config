@@ -1,3 +1,6 @@
+[![GoDoc](http://img.shields.io/badge/godoc-reference-blue.svg)](http://godoc.org/github.com/basharal/config)
+[![Build Status](https://travis-ci.org/basharal/config.svg)](https://travis-ci.org/basharal/config.svg)
+
 # config
 Package config provides APIs to parse configuration files in JSON, YAML, or TOML format
 
